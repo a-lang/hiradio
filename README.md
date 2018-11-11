@@ -17,7 +17,7 @@ Mac
 ![](screenshot-mac.png)
 
 ## Install
-Go to [Release](release) to download the packages for all OS.
+Go to [Release][release] to download the packages for all OS.
 
 * Linux: HiRadio-1.0.0-x86_64.AppImage (64-bit), HiRadio-1.0.0-x86_64.tar.gz (64-bit)
 * Mac: 
@@ -51,3 +51,4 @@ Active Record is released under the [MIT license][license]
 [hichannel]: https://hichannel.hinet.net/radio/index.do
 [electron]: http://electron.atom.io
 [license]: https://opensource.org/licenses/MIT
+[release]: https://github.com/a-lang/hiradio/releases
