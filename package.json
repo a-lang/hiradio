@@ -51,7 +51,7 @@
             "maintainer": "A-Lang <alang.hsu@gmail.com>",
             "icon": "build",
             "desktop": {
-                "Icon": "build/icon.png",
+                "Icon": "icon",
                 "Name": "HiRadio",
                 "Comment": "HiNet Internet Radio",
                 "Categories": "GTK;GNOME;Audio;",
