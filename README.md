@@ -19,9 +19,13 @@ Mac
 ## Install
 Go to [Release][release] to download the packages for specific OS.
 
-* Linux: HiRadio-*-x86_64.AppImage (64-bit), HiRadio-*-x86_64.tar.gz (64-bit)
-* Mac: 
-* Windows: HiRadio.Setup.*.exe (64-bit), HiRadio-*-win.zip (64-bit, portable version)
+* Linux: 
+  * HiRadio-{version}-x86_64.AppImage (64-bit)
+  * HiRadio-{version}-x86_64.tar.gz (64-bit)
+* Mac: HiRadio-{version}-mac.zip (64-bit)
+* Windows: 
+  * HiRadio.Setup.{version}.exe (64-bit)
+  * HiRadio-{version}-win.zip (64-bit, portable version)
 
 ## How to use
 1. Extract the compressed file (zip/tar-gz) then execute HiRadio program.
